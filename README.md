@@ -7,7 +7,7 @@
 #### [mineland](mc.mineland.net):intave12+α
 #### [BlocksMC](ccc.blocksmc.com):[UpdateNCP](https://github.com/Updated-NoCheatPlus/NoCheatPlus)+[Verus200$](https://verus.ac/)
 #### [coldpvp](play.coldnetwork.net):[Verus200$](https://verus.ac/)
-#### [KKCraft](mc.163mc.cn):[Polar](https://polar.top/)(maybe)+[intave14](https://intave.ac/frontpage)+[Kahru](https://www.karhu.ac/)+tatako+AAC5+iris(Details unknown)+α
+#### [KKCraft](mc.163mc.cn):[Polar](https://polar.top/)(maybe)+[intave14](https://intave.ac/frontpage)+[Kahru](https://www.karhu.ac/)+[MX](https://www.spigotmc.org/resources/mx-anticheat-killaura-aim-detection-1-8-1-21.123341/)+tatako+AAC5+iris(Details unknown)+α
 #### [Jartex](jartex.fun):[Polar](https://polar.top/)
 #### [pika](pika.host):[Polar](https://polar.top/)
 #### [BedwarsPractice](BedwarsPractice.club):[Grim](https://grim.ac/)
