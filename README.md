@@ -4,6 +4,7 @@
 #### [GommeHD](gommeHD.net):[intave14](https://intave.ac/frontpage)
 #### [mineberry](mc.mineberry.org):[intave14](https://intave.ac/frontpage)
 #### [mineblaze](mineblaze.ru):[intave14](https://intave.ac/frontpage)
+#### [3fmc](3fmc.com):[intave14.8.3](https://intave.ac/frontpage)
 #### [mineland](mc.mineland.net):intave12+α
 #### [BlocksMC](ccc.blocksmc.com):[UpdateNCP](https://github.com/Updated-NoCheatPlus/NoCheatPlus)+[Verus200$](https://verus.ac/)
 #### [coldpvp](play.coldnetwork.net):[Verus200$](https://verus.ac/)
