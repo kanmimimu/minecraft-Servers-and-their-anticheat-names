@@ -21,4 +21,4 @@
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
 #### [Zentic](Zentic.cc):[Grim](https://grim.ac/)
 #### [Twerion](play.twerion.net):[Grim](https://grim.ac/)
-#### [miniblox](https://github.com/7GrandDadPGN/MinibloxTranslationLayer):Proprietary AC similar to Vulcan
+#### [BWhub](bwhub.net):[Karhu](https://www.karhu.ac/)
