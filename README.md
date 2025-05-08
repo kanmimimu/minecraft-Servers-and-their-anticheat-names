@@ -17,6 +17,7 @@
 #### [Gamster V2.0](mc.gamster.org):[Polar](https://polar.top/)
 #### [Hycraft](mc.hycraft.us):[Polar](https://polar.top/)
 #### [pika](pika.host):[Polar](https://polar.top/)
+#### [fakepixel](fakepixel.fun):[Polar](https://polar.top/) or[intave14](https://intave.ac/frontpage) 
 #### [BedwarsPractice](BedwarsPractice.club):[Grim](https://grim.ac/)
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
 #### [Zentic](Zentic.cc):[Grim](https://grim.ac/)
