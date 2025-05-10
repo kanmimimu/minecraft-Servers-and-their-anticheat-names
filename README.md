@@ -6,6 +6,7 @@
 #### [mineblaze](mineblaze.ru):[intave14](https://intave.ac/frontpage)
 #### [3fmc](3fmc.com):[intave14](https://intave.ac/frontpage)
 #### [luckyvn](mc.luckyvn.com):[intave14](https://intave.ac/frontpage)
+#### [fakepixel](fakepixel.fun):[intave14](https://intave.ac/frontpage) 
 #### [mineland](mc.mineland.net):intave12+α
 #### [blockdrop](playmc.games):[UpdateNCP](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
 #### [BlocksMC](ccc.blocksmc.com):[UpdateNCP](https://github.com/Updated-NoCheatPlus/NoCheatPlus)+[Verus200$](https://verus.ac/)
@@ -17,7 +18,6 @@
 #### [Gamster V2.0](mc.gamster.org):[Polar](https://polar.top/)
 #### [Hycraft](mc.hycraft.us):[Polar](https://polar.top/)
 #### [pika](pika.host):[Polar](https://polar.top/)
-#### [fakepixel](fakepixel.fun):[Polar](https://polar.top/) or[intave14](https://intave.ac/frontpage) 
 #### [BedwarsPractice](BedwarsPractice.club):[Grim](https://grim.ac/)
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
 #### [Zentic](Zentic.cc):[Grim](https://grim.ac/)
