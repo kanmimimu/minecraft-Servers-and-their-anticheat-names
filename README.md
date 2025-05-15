@@ -22,4 +22,4 @@
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
 #### [Zentic](Zentic.cc):[Grim](https://grim.ac/)
 #### [Twerion](play.twerion.net):[Grim](https://grim.ac/)
-#### [BWhub](bwhub.net):[Karhu](https://www.karhu.ac/)
+#### [BWhub](bwhub.net):[Karhu](https://www.karhu.ac/)+[GodsEye(maybe)](https://nullforums.net/resources/godseye-anticheat-advanced-detection.2340/)
