@@ -20,6 +20,7 @@
 #### [pika](pika.host):[Polar](https://polar.top/)
 #### [BedwarsPractice](BedwarsPractice.club):[Grim](https://grim.ac/)
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
+#### [TeamHoly](teamholy.de):[Grim](https://grim.ac/)+[Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-21-5.83626/updates)
 #### [Zentic](Zentic.cc):[Grim](https://grim.ac/)
 #### [Twerion](play.twerion.net):[Grim](https://grim.ac/)
 #### [BWhub](bwhub.net):[Karhu](https://www.karhu.ac/)+[GodsEye(maybe)](https://nullforums.net/resources/godseye-anticheat-advanced-detection.2340/)
