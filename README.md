@@ -4,6 +4,8 @@
 #### [GommeHD](gommeHD.net):[intave14](https://intave.ac/frontpage)
 #### [mineberry](mc.mineberry.org):[intave14](https://intave.ac/frontpage)
 #### [mineblaze](mineblaze.ru):[intave14](https://intave.ac/frontpage)
+#### [Dexland](mc.dexland.org):[intave14](https://intave.ac/frontpage)
+#### [ruHypixel](ruhypixel.net):[intave14](https://intave.ac/frontpage)
 #### [3fmc](3fmc.com):[intave14](https://intave.ac/frontpage)
 #### [luckyvn](mc.luckyvn.com):[intave14](https://intave.ac/frontpage)
 #### [fakepixel](fakepixel.fun):[intave14](https://intave.ac/frontpage) 
