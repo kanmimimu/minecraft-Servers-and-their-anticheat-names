@@ -15,7 +15,7 @@
 #### [coldpvp](play.coldnetwork.net):[Verus200$](https://verus.ac/)
 #### [astralmc](astralmc.cc):[Verus](https://verus.ac/)
 #### [cnbedwars](cnbedwars.top):tatako?+Matrix?
-#### [funnymc](http://funnymc.ru/):Matrix?
+#### [funnymc](funnymc.ru):[Matrix](https://matrix.rip/)
 #### [KKCraft](mc.163mc.cn):[Polar](https://polar.top/)+[intave14](https://intave.ac/frontpage)+[Matrix](https://matrix.rip/)+[Karhu](https://www.karhu.ac/)+[MX](https://www.spigotmc.org/resources/mx-anticheat-killaura-aim-detection-1-8-1-21.123341/)+[Sparky](https://builtbybit.com/threads/60-sparky-anti-cheat-advanced-unique-unmatched-the-only-anti-cheat-you-will-ever-need.603663/)+[tatako](https://bbs.hezhongkj.top/forum.php?mod=viewthread&tid=376)+[AAC5](https://nullforums.net/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.694/)+[iris](https://www.spigotmc.org/resources/iris-anticheat-advanced-cheat-detection-antivpn-1-8-1-13.53721/)+[Hawk](https://www.spigotmc.org/resources/hawk-anticheat-mc-1-7-10-1-8-8.40343/)+[GodsEye](https://nullforums.net/resources/godseye-anticheat-advanced-detection.2340/)+Rock+α
 ### KKCraft's anti cheat is likely to be updated frequently and should only be used as a reference
 #### [Jartex](jartex.fun):[Polar](https://polar.top/)
