@@ -22,6 +22,7 @@
 #### [Gamster V2.0](mc.gamster.org):[Polar](https://polar.top/)
 #### [Hycraft](mc.hycraft.us):[Polar](https://polar.top/)
 #### [pika](pika.host):[Polar](https://polar.top/)
+#### [universocraft](mc.universocraft.com):[Polar](https://polar.top/)
 #### [BedwarsPractice](BedwarsPractice.club):[Grim](https://grim.ac/)
 #### [Hylex](hylex.gg):[Grim](https://grim.ac/)
 #### [TeamHoly](teamholy.de):[Grim](https://grim.ac/)+[Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-21-5.83626/updates)
